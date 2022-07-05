@@ -33,7 +33,7 @@
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
-      "href": "#"
+      "href": "https://dgit-wiki.buhe.dev/installation"
     },
     "secondaryAction": {
       "text": "Email us",
