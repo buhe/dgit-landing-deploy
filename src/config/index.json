@@ -62,22 +62,22 @@
     "items": [
       {
         "name": "NFT",
-        "description": "Source code as NFT.",
+        "description": "Source code as NFT, economic encouragement.",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "name": "Ownership",
+        "description": "Have all the data.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "name": "Privacy",
+        "description": "No login required, no data collection.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "name": "Decentralization",
+        "description": "The data is not in the central server, data in ipfs.",
         "icon": "/assets/images/ts.png"
       }
     ]
